@@ -1,4 +1,4 @@
-/*1.1
+1.1
 
 const game = {title: 'The last us 2', gender: ['action', 'zombie', 'survival'], year: 2020}
 
@@ -205,7 +205,7 @@ console.log(totalApprovedScore);
 const totalScore = exams.reduce((acc, exam) => acc + exam.score, 0);
 const mediaTotal = totalScore / exams.length;
 console.log(mediaTotal)
-*/
+
 7.1 
 const videogames = [
     {name: 'Final Fantasy VII', genders: ['RPG'], score: 9.5},
